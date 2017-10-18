@@ -458,7 +458,6 @@ void Table7(int k)
 			x9++;
 		}
 	}
-
 	buildTable2(x0, x1, x2, x3, x4, x5, x6, x7, x8, x9, k);
 }
 
